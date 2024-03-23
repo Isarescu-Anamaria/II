@@ -1,0 +1,16 @@
+D:\an3\sem2\II\Lab1Ex2\Lab1Ex2\bin\Debug\Lab1Ex2.exe.config
+D:\an3\sem2\II\Lab1Ex2\Lab1Ex2\bin\Debug\Lab1Ex2.exe
+D:\an3\sem2\II\Lab1Ex2\Lab1Ex2\bin\Debug\Lab1Ex2.pdb
+D:\an3\sem2\II\Lab1Ex2\Lab1Ex2\obj\Debug\Lab1Ex2.csproj.AssemblyReference.cache
+D:\an3\sem2\II\Lab1Ex2\Lab1Ex2\obj\Debug\Lab1Ex2.csproj.SuggestedBindingRedirects.cache
+D:\an3\sem2\II\Lab1Ex2\Lab1Ex2\obj\Debug\Lab1Ex2.csproj.CoreCompileInputs.cache
+D:\an3\sem2\II\Lab1Ex2\Lab1Ex2\obj\Debug\Lab1Ex2.exe
+D:\an3\sem2\II\Lab1Ex2\Lab1Ex2\obj\Debug\Lab1Ex2.pdb
+D:\an3\sem2\II\Lab\coduri\L1\Lab1Ex2\Lab1Ex2\bin\Debug\Lab1Ex2.exe.config
+D:\an3\sem2\II\Lab\coduri\L1\Lab1Ex2\Lab1Ex2\bin\Debug\Lab1Ex2.exe
+D:\an3\sem2\II\Lab\coduri\L1\Lab1Ex2\Lab1Ex2\bin\Debug\Lab1Ex2.pdb
+D:\an3\sem2\II\Lab\coduri\L1\Lab1Ex2\Lab1Ex2\obj\Debug\Lab1Ex2.csproj.AssemblyReference.cache
+D:\an3\sem2\II\Lab\coduri\L1\Lab1Ex2\Lab1Ex2\obj\Debug\Lab1Ex2.csproj.SuggestedBindingRedirects.cache
+D:\an3\sem2\II\Lab\coduri\L1\Lab1Ex2\Lab1Ex2\obj\Debug\Lab1Ex2.csproj.CoreCompileInputs.cache
+D:\an3\sem2\II\Lab\coduri\L1\Lab1Ex2\Lab1Ex2\obj\Debug\Lab1Ex2.exe
+D:\an3\sem2\II\Lab\coduri\L1\Lab1Ex2\Lab1Ex2\obj\Debug\Lab1Ex2.pdb

@@ -1,0 +1,11 @@
+C:\Users\Automatica\Desktop\30135\Ex4\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\Automatica\Desktop\30135\Ex4\Ex4\bin\Debug\Ex4.exe
+C:\Users\Automatica\Desktop\30135\Ex4\Ex4\bin\Debug\Ex4.pdb
+C:\Users\Automatica\Desktop\30135\Ex4\Ex4\obj\Debug\Ex4.csproj.AssemblyReference.cache
+C:\Users\Automatica\Desktop\30135\Ex4\Ex4\obj\Debug\Ex4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Automatica\Desktop\30135\Ex4\Ex4\obj\Debug\Ex4.Form1.resources
+C:\Users\Automatica\Desktop\30135\Ex4\Ex4\obj\Debug\Ex4.Properties.Resources.resources
+C:\Users\Automatica\Desktop\30135\Ex4\Ex4\obj\Debug\Ex4.csproj.GenerateResource.cache
+C:\Users\Automatica\Desktop\30135\Ex4\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\Automatica\Desktop\30135\Ex4\Ex4\obj\Debug\Ex4.exe
+C:\Users\Automatica\Desktop\30135\Ex4\Ex4\obj\Debug\Ex4.pdb
