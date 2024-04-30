@@ -1,0 +1,11 @@
+D:\an3\sem2\II\Lab\coduri\WindowsFormsAppL5\WindowsFormsAppL5\bin\Debug\WindowsFormsAppL5.exe.config
+D:\an3\sem2\II\Lab\coduri\WindowsFormsAppL5\WindowsFormsAppL5\bin\Debug\WindowsFormsAppL5.exe
+D:\an3\sem2\II\Lab\coduri\WindowsFormsAppL5\WindowsFormsAppL5\bin\Debug\WindowsFormsAppL5.pdb
+D:\an3\sem2\II\Lab\coduri\WindowsFormsAppL5\WindowsFormsAppL5\obj\Debug\WindowsFormsAppL5.csproj.AssemblyReference.cache
+D:\an3\sem2\II\Lab\coduri\WindowsFormsAppL5\WindowsFormsAppL5\obj\Debug\WindowsFormsAppL5.csproj.SuggestedBindingRedirects.cache
+D:\an3\sem2\II\Lab\coduri\WindowsFormsAppL5\WindowsFormsAppL5\obj\Debug\WindowsFormsAppL5.Form1.resources
+D:\an3\sem2\II\Lab\coduri\WindowsFormsAppL5\WindowsFormsAppL5\obj\Debug\WindowsFormsAppL5.Properties.Resources.resources
+D:\an3\sem2\II\Lab\coduri\WindowsFormsAppL5\WindowsFormsAppL5\obj\Debug\WindowsFormsAppL5.csproj.GenerateResource.cache
+D:\an3\sem2\II\Lab\coduri\WindowsFormsAppL5\WindowsFormsAppL5\obj\Debug\WindowsFormsAppL5.csproj.CoreCompileInputs.cache
+D:\an3\sem2\II\Lab\coduri\WindowsFormsAppL5\WindowsFormsAppL5\obj\Debug\WindowsFormsAppL5.exe
+D:\an3\sem2\II\Lab\coduri\WindowsFormsAppL5\WindowsFormsAppL5\obj\Debug\WindowsFormsAppL5.pdb

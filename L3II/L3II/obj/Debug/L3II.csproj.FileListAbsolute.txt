@@ -1,0 +1,13 @@
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\bin\Debug\Database1.mdf
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\bin\Debug\Database1_log.ldf
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\bin\Debug\L3II.exe.config
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\bin\Debug\L3II.exe
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\bin\Debug\L3II.pdb
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\obj\Debug\L3II.csproj.AssemblyReference.cache
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\obj\Debug\L3II.csproj.SuggestedBindingRedirects.cache
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\obj\Debug\L3II.Form1.resources
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\obj\Debug\L3II.Properties.Resources.resources
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\obj\Debug\L3II.csproj.GenerateResource.cache
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\obj\Debug\L3II.csproj.CoreCompileInputs.cache
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\obj\Debug\L3II.exe
+D:\an3\sem2\II\Lab\coduri\L3II\L3II\obj\Debug\L3II.pdb

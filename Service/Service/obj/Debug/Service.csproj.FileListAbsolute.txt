@@ -1,0 +1,9 @@
+D:\an3\sem2\II\Lab\coduri\Service\Service\bin\Debug\Service.exe.config
+D:\an3\sem2\II\Lab\coduri\Service\Service\bin\Debug\Service.exe
+D:\an3\sem2\II\Lab\coduri\Service\Service\bin\Debug\Service.pdb
+D:\an3\sem2\II\Lab\coduri\Service\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+D:\an3\sem2\II\Lab\coduri\Service\Service\obj\Debug\Service.csproj.SuggestedBindingRedirects.cache
+D:\an3\sem2\II\Lab\coduri\Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\an3\sem2\II\Lab\coduri\Service\Service\obj\Debug\Service.exe
+D:\an3\sem2\II\Lab\coduri\Service\Service\obj\Debug\Service.pdb
+D:\an3\sem2\II\Lab\coduri\Service\Service\bin\Debug\App.config

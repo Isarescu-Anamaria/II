@@ -1,0 +1,15 @@
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\bin\Debug\Database1.mdf
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\bin\Debug\Database1_log.ldf
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\bin\Debug\L4nou.exe.config
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\bin\Debug\L4nou.exe
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\bin\Debug\L4nou.pdb
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\bin\Debug\EntityFramework.dll
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\bin\Debug\EntityFramework.SqlServer.dll
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\bin\Debug\EntityFramework.xml
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\bin\Debug\EntityFramework.SqlServer.xml
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\obj\Debug\L4nou.csproj.AssemblyReference.cache
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\obj\Debug\L4nou.csproj.SuggestedBindingRedirects.cache
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\obj\Debug\L4nou.csproj.CoreCompileInputs.cache
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\obj\Debug\L4nou.csproj.CopyComplete
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\obj\Debug\L4nou.exe
+D:\an3\sem2\II\Lab\coduri\L4nou\L4nou\obj\Debug\L4nou.pdb

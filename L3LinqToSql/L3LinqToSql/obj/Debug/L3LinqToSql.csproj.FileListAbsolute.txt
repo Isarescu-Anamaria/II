@@ -1,0 +1,10 @@
+D:\an3\sem2\II\Lab\coduri\L3LinqToSql\L3LinqToSql\bin\Debug\Database1.mdf
+D:\an3\sem2\II\Lab\coduri\L3LinqToSql\L3LinqToSql\bin\Debug\Database1_log.ldf
+D:\an3\sem2\II\Lab\coduri\L3LinqToSql\L3LinqToSql\bin\Debug\L3LinqToSql.exe.config
+D:\an3\sem2\II\Lab\coduri\L3LinqToSql\L3LinqToSql\bin\Debug\L3LinqToSql.exe
+D:\an3\sem2\II\Lab\coduri\L3LinqToSql\L3LinqToSql\bin\Debug\L3LinqToSql.pdb
+D:\an3\sem2\II\Lab\coduri\L3LinqToSql\L3LinqToSql\obj\Debug\L3LinqToSql.csproj.AssemblyReference.cache
+D:\an3\sem2\II\Lab\coduri\L3LinqToSql\L3LinqToSql\obj\Debug\L3LinqToSql.csproj.SuggestedBindingRedirects.cache
+D:\an3\sem2\II\Lab\coduri\L3LinqToSql\L3LinqToSql\obj\Debug\L3LinqToSql.csproj.CoreCompileInputs.cache
+D:\an3\sem2\II\Lab\coduri\L3LinqToSql\L3LinqToSql\obj\Debug\L3LinqToSql.exe
+D:\an3\sem2\II\Lab\coduri\L3LinqToSql\L3LinqToSql\obj\Debug\L3LinqToSql.pdb

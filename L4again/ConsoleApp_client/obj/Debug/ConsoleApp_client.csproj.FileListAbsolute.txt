@@ -1,0 +1,8 @@
+D:\an3\sem2\II\Lab\coduri\L4again\ConsoleApp_client\bin\Debug\ConsoleApp_client.exe.config
+D:\an3\sem2\II\Lab\coduri\L4again\ConsoleApp_client\bin\Debug\ConsoleApp_client.exe
+D:\an3\sem2\II\Lab\coduri\L4again\ConsoleApp_client\bin\Debug\ConsoleApp_client.pdb
+D:\an3\sem2\II\Lab\coduri\L4again\ConsoleApp_client\obj\Debug\ConsoleApp_client.csproj.AssemblyReference.cache
+D:\an3\sem2\II\Lab\coduri\L4again\ConsoleApp_client\obj\Debug\ConsoleApp_client.csproj.SuggestedBindingRedirects.cache
+D:\an3\sem2\II\Lab\coduri\L4again\ConsoleApp_client\obj\Debug\ConsoleApp_client.csproj.CoreCompileInputs.cache
+D:\an3\sem2\II\Lab\coduri\L4again\ConsoleApp_client\obj\Debug\ConsoleApp_client.exe
+D:\an3\sem2\II\Lab\coduri\L4again\ConsoleApp_client\obj\Debug\ConsoleApp_client.pdb
