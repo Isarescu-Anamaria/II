@@ -1,0 +1,34 @@
+﻿@model UpdateEmployeeViewModel
+
+<h1>Edit Employee</h1>
+<form method="post" action="UpdateEmployee" class="mt-5">
+    <div class="mb-3">
+        <label for="" class="form-label">Id</label>
+        <input type="text" class="form-control" asp-for="@Model.Id" readonly/>
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Name</label>
+        <input type="text" class="form-control" asp-for="@Model.Name" />
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Email</label>
+        <input type="text" class="form-control" asp-for="@Model.Email" />
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Salary</label>
+        <input type="text" class="form-control" asp-for="@Model.Salary" />
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Date Of Birth</label>
+        <input type="text" class="form-control" asp-for="@Model.DateOfBirth" />
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Department</label>
+        <input type="text" class="form-control" asp-for="@Model.Department" />
+    </div>
+
+    <button type="submit" class="btn-primary btn-primary">Submit</button>
+    <button type="submit" class="btn btn-danger"
+            asp-asp-controller="Employees"
+            asp-action="DeleteEmployee">Delete</button>
+</form>
